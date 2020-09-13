@@ -82,11 +82,10 @@
   box-sizing: border-box;
   margin: 13px 0 13px 0;
   border-radius: 3px;
-  color: #b8aaa7;
+  color: #64605f;
 }
 .inner_ .right_ {
   width: 270px;
-  height: 710px;
   float: right;
 }
 .inner_ .right_ .tit {
@@ -113,7 +112,7 @@
 }
 .inner_ .right_ .fuli .putex {
   font-size: 12px;
-  color: #b8aaa7;
+  color: #64605f;
 }
 .tit_2 {
   margin-top: 55px;
