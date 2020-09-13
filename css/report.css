@@ -1,0 +1,201 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.back_red {
+  border-bottom: red solid 5px;
+}
+.neirong {
+  width: 1000px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+.neirong .nav_faxian {
+  text-align: center;
+  font-size: 39px;
+  margin: 45px 0 30px 0;
+}
+.neirong .type {
+  overflow: hidden;
+  margin-left: 50%;
+  transform: translateX(-50%);
+  width: 330px;
+  margin-bottom: 25px;
+}
+.neirong .type .type_ {
+  float: left;
+  width: 165px;
+  height: 45px;
+  text-align: center;
+  line-height: 45px;
+}
+.inner_ .left_ {
+  width: 700px;
+  float: left;
+}
+.inner_ .left_ .left_inner {
+  height: 414px;
+  position: relative;
+  border-radius: 5px;
+  overflow: hidden;
+}
+.inner_ .left_ .left_inner .maximg {
+  width: 700px;
+  height: 414px;
+}
+.inner_ .left_ .left_inner .opac {
+  width: 100%;
+  height: 119px;
+  background-color: antiquewhite;
+  position: absolute;
+  bottom: 0px;
+  z-index: 3;
+  padding-left: 20px;
+  opacity: 0.8;
+  box-sizing: border-box;
+}
+.inner_ .left_ .left_inner .opac p {
+  margin-top: 20px;
+  margin-bottom: 33px;
+}
+.inner_ .left_ .left_inner .opac div .name_ {
+  background: url(../img/img1/tx.jpg) no-repeat left;
+  background-size: 20px;
+  padding-left: 30px;
+  color: #ff585b;
+}
+.inner_ .left_ .left_inner .opac div .time_ {
+  color: #b8aaa7;
+}
+.inner_ .left_ .left_inner .opac .pinglun {
+  position: absolute;
+  bottom: 25px;
+  right: 25px;
+  color: #b8aaa7;
+}
+.inner_ .left_ .guanyu {
+  width: 100%;
+  height: 50px;
+  border: 1px solid #eaeaea;
+  text-align: center;
+  line-height: 50px;
+  box-sizing: border-box;
+  margin: 13px 0 13px 0;
+  border-radius: 3px;
+  color: #b8aaa7;
+}
+.inner_ .right_ {
+  width: 270px;
+  height: 710px;
+  float: right;
+}
+.inner_ .right_ .tit {
+  overflow: hidden;
+  margin-bottom: 20px;
+}
+.inner_ .right_ .tit .red_line {
+  width: 6px;
+  height: 26px;
+  background-color: red;
+  float: left;
+  margin-right: 20px;
+}
+.inner_ .right_ .tit .tex {
+  font-size: 18px;
+  float: left;
+}
+.inner_ .right_ .fuli {
+  margin: 17px 0;
+}
+.inner_ .right_ .fuli .fuli_ {
+  font-size: 16px;
+  padding-bottom: 10px;
+}
+.inner_ .right_ .fuli .putex {
+  font-size: 12px;
+  color: #b8aaa7;
+}
+.tit_2 {
+  margin-top: 55px;
+}
+.gengduo {
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  margin: 40px 0 50px 0;
+}
+.gengduo span {
+  color: red;
+}
+.inner_2 {
+  display: none;
+}
+.weibu {
+  position: absolute;
+  width: 100%;
+  height: 360px;
+  background-color: #505050;
+}
+.weibu .wb_bx {
+  width: 1000px;
+  height: 360px;
+  margin: 0 auto;
+  padding-top: 40px;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.weibu .wb_bx .erweima {
+  float: left;
+  width: 160px;
+  height: 160px;
+  background-color: saddlebrown;
+  border-radius: 3px;
+}
+.weibu .wb_bx .erweima img {
+  width: 100%;
+  height: 100%;
+}
+.weibu .wb_bx .jglogo {
+  width: 122px;
+  float: left;
+  margin-left: 20px;
+}
+.weibu .wb_bx .jglogo img {
+  width: 122px;
+  height: 46px;
+}
+.weibu .wb_bx .jglogo p {
+  color: #b8b3b7;
+  font-size: 12px;
+  margin-top: 18px;
+  margin-bottom: 10px;
+}
+.weibu .wb_bx .bott {
+  float: left;
+  margin-left: 32px;
+}
+.weibu .wb_bx .bott .bot_title1 {
+  color: #eefff8;
+  font-size: 15px;
+  margin-bottom: 30px;
+}
+.weibu .wb_bx .bott li {
+  color: #b8b3b7;
+  font-size: 12px;
+  margin-bottom: 5px;
+}
+.weibu .wb_bx .banquan {
+  font-size: 12px;
+  position: absolute;
+  bottom: 18px;
+  left: 50%;
+  transform: translateX(-50%);
+  color: #b8b3b7;
+}
+.youqing {
+  width: 140px;
+}
+.youqing li {
+  float: left;
+  width: 70px;
+}
